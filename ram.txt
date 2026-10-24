@@ -1,1 +1,3 @@
 welcome to uniq
+unix is an operating system
+SQL is an structured query language
